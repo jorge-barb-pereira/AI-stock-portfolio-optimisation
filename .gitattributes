@@ -1,0 +1,3 @@
+* text=auto
+notebooks/** -text -whitespace
+*.png binary
